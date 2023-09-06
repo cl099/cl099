@@ -9,4 +9,4 @@ planejo ser uma médica dermatologista
 faço pintura em tela
 sou de exatas
 filme fav: castelo animado
-hobbie: ler, estudar, pintar, jogar,cozinhar e sair com os amigos
+hobbie: ler, estudar, pintar, jogar,cozinhar e sair com os amigos.
